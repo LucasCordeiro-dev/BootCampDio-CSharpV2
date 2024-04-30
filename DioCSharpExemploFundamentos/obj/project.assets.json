@@ -1,0 +1,94 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DioCSharpExemploFundamentos.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DioCSharpExemploFundamentos.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DioCSharpExemploFundamentos.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DioCSharpExemploFundamentos.Common/1.0.0": {
+      "type": "project",
+      "path": "../DioCSharpExemploFundamentos.Common/DioCSharpExemploFundamentos.Common.csproj",
+      "msbuildProject": "../DioCSharpExemploFundamentos.Common/DioCSharpExemploFundamentos.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DioCSharpExemploFundamentos.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lukac\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projetos\\BootCampDio-CSharp-main\\BootCampDio-CSharp\\DioCSharpExemploFundamentos\\DioCSharp.csproj",
+      "projectName": "DioCSharp",
+      "projectPath": "C:\\Projetos\\BootCampDio-CSharp-main\\BootCampDio-CSharp\\DioCSharpExemploFundamentos\\DioCSharp.csproj",
+      "packagesPath": "C:\\Users\\lukac\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos\\BootCampDio-CSharp-main\\BootCampDio-CSharp\\DioCSharpExemploFundamentos\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\lukac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Projetos\\BootCampDio-CSharp-main\\BootCampDio-CSharp\\DioCSharpExemploFundamentos.Common\\DioCSharpExemploFundamentos.Common.csproj": {
+              "projectPath": "C:\\Projetos\\BootCampDio-CSharp-main\\BootCampDio-CSharp\\DioCSharpExemploFundamentos.Common\\DioCSharpExemploFundamentos.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

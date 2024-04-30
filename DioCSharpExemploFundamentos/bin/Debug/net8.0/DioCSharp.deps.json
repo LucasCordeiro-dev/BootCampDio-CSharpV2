@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DioCSharp/1.0.0": {
+        "dependencies": {
+          "DioCSharpExemploFundamentos.Common": "1.0.0"
+        },
+        "runtime": {
+          "DioCSharp.dll": {}
+        }
+      },
+      "DioCSharpExemploFundamentos.Common/1.0.0": {
+        "runtime": {
+          "DioCSharpExemploFundamentos.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DioCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DioCSharpExemploFundamentos.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
