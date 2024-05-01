@@ -9,3 +9,15 @@ C:\Projetos\BootCampDio-CSharp-main\BootCampDio-CSharp\DioCSharpExemploFundament
 C:\Projetos\BootCampDio-CSharp-main\BootCampDio-CSharp\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\refint\DioCSharpExemploFundamentos.Common.dll
 C:\Projetos\BootCampDio-CSharp-main\BootCampDio-CSharp\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\DioCSharpExemploFundamentos.Common.pdb
 C:\Projetos\BootCampDio-CSharp-main\BootCampDio-CSharp\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\ref\DioCSharpExemploFundamentos.Common.dll
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\bin\Debug\net8.0\DioCSharpExemploFundamentos.Common.deps.json
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\bin\Debug\net8.0\DioCSharpExemploFundamentos.Common.dll
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\bin\Debug\net8.0\DioCSharpExemploFundamentos.Common.pdb
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\DioCSharpExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\DioCSharpExemploFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\DioCSharpExemploFundamentos.Common.AssemblyInfo.cs
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\DioCSharpExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\DioCSharpExemploFundamentos.Common.sourcelink.json
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\DioCSharpExemploFundamentos.Common.dll
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\refint\DioCSharpExemploFundamentos.Common.dll
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\DioCSharpExemploFundamentos.Common.pdb
+C:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\obj\Debug\net8.0\ref\DioCSharpExemploFundamentos.Common.dll

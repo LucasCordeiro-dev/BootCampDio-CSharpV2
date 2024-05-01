@@ -1,7 +1,7 @@
 ﻿using DioCSharpExemploFundamentos.Common.Models;
 
 #region Tipos de dados
-// string apresentacao = "Olá seja bem-vindo";
+// string apresentacao = "Olá seja bem-vindo"; 
 // int quantidade = 1;
 // double altura = 1.80;
 // decimal preco = 1.80m;
@@ -27,12 +27,12 @@
 #endregion
 
 #region Cast (Conversoes de var)
-//Cast - Casting
+// Cast - Casting
 // int a = Convert.ToInt32("5"); -> String para INT
 // int a = int.Parse("5");
 // Diferenca entre Convert e Parse (passando NULL)
-//Convert -> Convert para 0
-//Parse - > Erro , nao aceita nulo
+// Convert -> Convert para 0
+// Parse - > Erro , nao aceita nulo
 // int inteiro = 5;
 // string a = inteiro.ToString(); -> Para STRING
 
@@ -80,38 +80,38 @@
 #endregion
 
 #region Switch Case
-    // System.Console.WriteLine("Digite uma letra");
-    // string letra = Console.ReadLine();
+// System.Console.WriteLine("Digite uma letra");
+// string letra = Console.ReadLine();
 
 #region Maneira "Convencional"
-    // if(letra == "a")
-    // {
-    // System.Console.WriteLine("Vogal");
-    // }
-    // else if (letra == "e")
-    // {
-    //         System.Console.WriteLine("Vogal");
+// if(letra == "a")
+// {
+// System.Console.WriteLine("Vogal");
+// }
+// else if (letra == "e")
+// {
+//         System.Console.WriteLine("Vogal");
 
-    // }
-    //   else if (letra == "i")
-    // {
-    //         System.Console.WriteLine("Vogal");
+// }
+//   else if (letra == "i")
+// {
+//         System.Console.WriteLine("Vogal");
 
-    // }
-    //   else if (letra == "o")
-    // {
-    //         System.Console.WriteLine("Vogal");
+// }
+//   else if (letra == "o")
+// {
+//         System.Console.WriteLine("Vogal");
 
-    // }
-    //   else if (letra == "u")
-    // {
-    //         System.Console.WriteLine("Vogal");
+// }
+//   else if (letra == "u")
+// {
+//         System.Console.WriteLine("Vogal");
 
-    // }
-    // else
-    // {
-    //     System.Console.WriteLine("Não é vogal");
-    // }
+// }
+// else
+// {
+//     System.Console.WriteLine("Não é vogal");
+// }
 #endregion
 #region Switch na prática -> Utilizável quando se possui muitos else/if
 // switch (letra)
@@ -228,8 +228,9 @@
 //     }while(numero != 0);
 //     System.Console.WriteLine($"Total da soma dos números digitados é: {soma}");
 #endregion
+#endregion
 
-#region MENU INTERATIVO
+#region MENU Interativo
 // string opcao;
 // bool exibirMenu = true;
 
@@ -248,7 +249,7 @@
 //         case "1":
 //         System.Console.WriteLine("Cadastro cliente");
 //         break;
-        
+
 //         case "2":
 //         System.Console.WriteLine("Buscar cliente");
 //         break;
@@ -270,4 +271,68 @@
 //     System.Console.WriteLine("O programa se encerrou");
 // }
 #endregion
+
+#region Trabalhando com Arrays
+// int[] arrayInteiro = new int[4];
+// arrayInteiro[0] = 72;
+// arrayInteiro[1] = 64;
+// arrayInteiro[2] = 50;
+// arrayInteiro[3] = 60;
+
+#region Copiando um array para o outro
+//int[] arrayInteiroDobrado = new int[arrayInteiro.Length * 2];
+//Array.Copy(arrayInteiro, arrayInteiroDobrado,arrayInteiro.Length);
+#endregion
+
+#region Redimensionando um array
+//Array.Resize(ref arrayInteiro,arrayInteiro.Length * 2);
+#endregion
+
+#region Se necessita do valor do contador -> FOR
+// System.Console.WriteLine("Percorrendo o array com o FOR");
+// for (int contador = 0; contador < arrayInteiro.Length; contador++)
+// {
+//     System.Console.WriteLine($"Posicao N {contador} - {arrayInteiro[contador]}");
+// }
+#endregion
+
+#region Se NÄO necessita do valor do contador -> FOREACH
+// System.Console.WriteLine("Percorrendo o array com o FOREACH");
+// foreach (int valor in arrayInteiro)
+// {
+//     System.Console.WriteLine($"Posicao N {valor} - {arrayInteiro[valor]}");
+// }
+#endregion
+#endregion
+
+#region Trabalhando com Listas
+// List<string> listaString = new List<string>();
+
+// listaString.Add("SP");
+// listaString.Add("BA");
+// listaString.Add("MG");
+// listaString.Add("RJ");
+
+// System.Console.WriteLine($"Itens na minhalista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+// listaString.Add("SC");
+
+// System.Console.WriteLine($"Itens na minhalista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+// listaString.Remove("MG");
+
+// System.Console.WriteLine($"Itens na minhalista: {listaString.Count} - Capacidade: {listaString.Capacity}");
+
+
+// System.Console.WriteLine("Percorrendo lista com FOR");
+// for(int contador  = 0; contador < listaString.Count; contador++)
+// {
+//     System.Console.WriteLine($"Posiçäo N {contador} - {listaString[contador]}");
+// }
+
+// System.Console.WriteLine("Percorrendo lista com FOREACH");
+
+// foreach(string item in listaString)
+// {
+//     System.Console.WriteLine($"Posiçäo N {item} - {item}");
+    
+// }
 #endregion

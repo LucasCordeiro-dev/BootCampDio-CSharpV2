@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DioCSharpExemploFundamentos.Common
-build_property.ProjectDir = C:\Projetos\BootCampDio-CSharp-main\BootCampDio-CSharp\DioCSharpExemploFundamentos.Common\
+build_property.ProjectDir = c:\Users\User\Desktop\VsCodeProjects\BootCampDio-CSharpV2\DioCSharpExemploFundamentos.Common\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

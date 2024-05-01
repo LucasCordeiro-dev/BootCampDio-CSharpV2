@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\BootCampDio-CSharp-main\\BootCampDio-CSharp\\DioCSharpExemploFundamentos.Common\\DioCSharpExemploFundamentos.Common.csproj": {}
+    "c:\\Users\\User\\Desktop\\VsCodeProjects\\BootCampDio-CSharpV2\\DioCSharpExemploFundamentos.Common\\DioCSharpExemploFundamentos.Common.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\BootCampDio-CSharp-main\\BootCampDio-CSharp\\DioCSharpExemploFundamentos.Common\\DioCSharpExemploFundamentos.Common.csproj": {
+    "c:\\Users\\User\\Desktop\\VsCodeProjects\\BootCampDio-CSharpV2\\DioCSharpExemploFundamentos.Common\\DioCSharpExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\BootCampDio-CSharp-main\\BootCampDio-CSharp\\DioCSharpExemploFundamentos.Common\\DioCSharpExemploFundamentos.Common.csproj",
+        "projectUniqueName": "c:\\Users\\User\\Desktop\\VsCodeProjects\\BootCampDio-CSharpV2\\DioCSharpExemploFundamentos.Common\\DioCSharpExemploFundamentos.Common.csproj",
         "projectName": "DioCSharpExemploFundamentos.Common",
-        "projectPath": "C:\\Projetos\\BootCampDio-CSharp-main\\BootCampDio-CSharp\\DioCSharpExemploFundamentos.Common\\DioCSharpExemploFundamentos.Common.csproj",
-        "packagesPath": "C:\\Users\\lukac\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\BootCampDio-CSharp-main\\BootCampDio-CSharp\\DioCSharpExemploFundamentos.Common\\obj\\",
+        "projectPath": "c:\\Users\\User\\Desktop\\VsCodeProjects\\BootCampDio-CSharpV2\\DioCSharpExemploFundamentos.Common\\DioCSharpExemploFundamentos.Common.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\User\\Desktop\\VsCodeProjects\\BootCampDio-CSharpV2\\DioCSharpExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lukac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
