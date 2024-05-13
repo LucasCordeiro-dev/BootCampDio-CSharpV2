@@ -1,4 +1,9 @@
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c#" /><br>
-</div>
-Bootcamp da DIO voltado ao .Net, aqui irei trazer todos os projetos deste bootcamp,deixando registrado os fundamentos adquiridos com C#
+<h1>Primeira parte do Bootcamp .Net Developer da DIO</h1>
+<ul>Neste início o foco será em:<ul>
+  <li>Introduçäo ao .NET e IDES </li>
+  <li>Sintaze e tipos de dados</li>
+  <li>Tipos de Operadores</li>
+  <li>Operadores aritméticos </li>
+  <li>Estruturas de repetiçäo</li>
+  <li>Array e lsitas</li>
+  
